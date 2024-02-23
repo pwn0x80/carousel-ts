@@ -14,7 +14,7 @@
     <a href="https://www.npmjs.com/package/carousel-ts"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/pwn0x80/carousel-ts">View Demo</a>
+    <a href="https://youtu.be/TDbOQR7AWoE">View Demo</a>
     .
     <a href="https://github.com/pwn0x80/carousel-ts/issues">Report Bug</a>
     .
@@ -38,8 +38,7 @@
 * [Authors](#authors)
 
 ## About The Project
-
-![Screen Shot](https://files.catbox.moe/i4i7m9.png)
+[![YouTube Video](https://files.catbox.moe/i4i7m9.png)](https://www.youtube.com/watch?v=TDbOQR7AWoE)
 ![image](https://github.com/pwn0x80/carousel-ts/assets/25504458/03dd2464-1bb2-4bb9-ace4-10cb5f66be85)
 ![image](https://github.com/pwn0x80/carousel-ts/assets/25504458/5b126e38-97f1-4648-920d-6ff332403a53)
 
